@@ -4,7 +4,7 @@ I use software and data to solve problems, secure systems, and support users acr
 
 🔍 Currently exploring roles in **Help Desk Support**, **Cloud Security**, and **Data Engineering**.
 
-📫 Reach me at: qdiws@umd.edu
+📫 Reach me at: qdiwouta@icloud.com
 
 ---
 
