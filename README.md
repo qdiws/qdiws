@@ -23,6 +23,12 @@ I use software and data to solve problems, secure systems, and support users acr
 ## 🧠 Projects  
 Here are a few of my top open-source projects 👇
 
+🔧 **[Help Desk Assistant Automation](https://github.com/qdiws/Help-Desk-Assistant-Automation)**  
+A Python-based CLI tool for logging Jira tickets, monitoring SLA thresholds, and sending real-time email alerts. Simulates real-world IT support workflows.
+
+📊 **[Cloud-Based Workforce Dashboard](https://github.com/qdiws/Cloud-Based-Workforce-Dashboard)**  
+A Streamlit dashboard deployed on AWS EC2 and RDS, visualizing support agent performance, ticket categories, and SLA status with Terraform infrastructure provisioning.
+
 🔐 **[Secure ETL with Anomaly Detection](https://github.com/qdiws/Secure-ETL-with-Anomaly-Detection)**  
 ETL pipeline with built-in anomaly detection and logging for data integrity and security monitoring.
 
